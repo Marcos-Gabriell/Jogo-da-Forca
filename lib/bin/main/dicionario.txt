@@ -1,0 +1,7 @@
+classe
+obejeto
+heranca
+polimorfismo
+encapsulmento
+sobrecarga
+sobrescrita
