@@ -34,7 +34,7 @@ Certifique-se de ter uma das IDEs acima instalada para facilitar o desenvolvimen
 
 1. Clone este repositório para o seu sistema local:
    ```sh
-   git clone https://github.com/Marcos-Gabriell/ConversorDeTemperatura.git](https://github.com/Marcos-Gabriell/Jogo-da-Forca.git)
+   git clone https://github.com/Marcos-Gabriell/Jogo-da-Forca.git
 
 2. Abra o projeto em sua IDE de preferência, como Eclipse, IntelliJ ou VS Code.
 3. Navegue até a classe Main.java e execute o método main para iniciar a aplicação.
