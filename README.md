@@ -1,6 +1,6 @@
-# Jogo da Forca em Java - Projeto de Treinamento em POO
+# Jogo da Forca em Java - Projeto de Treinamento e Estudos em POO
 
-Este é um projeto de treinamento em Programação Orientada a Objetos (POO) desenvolvido em Java, com o objetivo de criar o clássico jogo da forca.
+Este é um projeto de treinamento e Estudos em Programação Orientada a Objetos (POO) desenvolvido em Java, com o objetivo de criar o clássico jogo da forca.
 
 ## Descrição
 
