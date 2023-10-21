@@ -3,7 +3,7 @@
 ## Linguagens e ferramentas  usadas
 <div >
      <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+     <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 </div><br/>
 Este é um projeto de treinamento e Estudos em Programação Orientada a Objetos (POO) desenvolvido em Java, com o objetivo de criar o clássico jogo da forca.
 
