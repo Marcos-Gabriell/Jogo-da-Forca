@@ -2,7 +2,8 @@
 
 ## Linguagens e ferramentas  usadas
 <div >
-  
+    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+   
 </div><br/>
 Este é um projeto de treinamento e Estudos em Programação Orientada a Objetos (POO) desenvolvido em Java, com o objetivo de criar o clássico jogo da forca.
 
